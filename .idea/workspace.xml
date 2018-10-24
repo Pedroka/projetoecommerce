@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe64dd9-7404-42f1-b53d-b1cff54adc3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/djangoecommerce.iml" afterPath="$PROJECT_DIR$/.idea/djangoecommerce.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/templates/catalog/category.html" afterPath="$PROJECT_DIR$/catalog/templates/catalog/category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/templates/catalog/product.html" afterPath="$PROJECT_DIR$/catalog/templates/catalog/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/templates/catalog/product_list.html" afterPath="$PROJECT_DIR$/catalog/templates/catalog/product_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checkout/models.py" afterPath="$PROJECT_DIR$/checkout/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checkout/views.py" afterPath="$PROJECT_DIR$/checkout/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangoecommerce/urls.py" afterPath="$PROJECT_DIR$/djangoecommerce/urls.py" />
-    </list>
+    <list default="true" id="3fe64dd9-7404-42f1-b53d-b1cff54adc3e" name="Default" comment="" />
     <ignored path="djangoecommerce.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
